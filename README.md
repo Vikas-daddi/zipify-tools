@@ -6,6 +6,8 @@
 
 **Designed and Developed by [Vikas Daddi](https://github.com/Vikas-daddi)**
 
+🌍 **Live Demo:** [https://zipify-tools.vercel.app](https://zipify-tools.vercel.app)
+
 ---
 
 ## 🔒 100% Secure & Local
